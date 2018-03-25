@@ -1,2 +1,2 @@
-# inoy
-Inoy Repository
+# Moblik
+Moblik Repository
